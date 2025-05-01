@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\controllers\\registereduserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\registereduserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\controllers\\salariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\salariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\views\\registeredusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:views\\registeredusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\views\\registeredusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:views\\registeredusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\models\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:models\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|d:\\web \u0026 internet programming course\\final project\\final project\\employeemanagementsystem\\views\\taskdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95327C94-E23E-40C8-972B-F91C7879BF0D}|EmployeeManagementSystem.csproj|solutionrelative:views\\taskdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:01:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagersController.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "Controllers\\ManagersController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwJMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:58:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalariesController.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\SalariesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalariesController.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\SalariesController.cs",
+              "RelativeToolTip": "Controllers\\SalariesController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwE4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:56:34.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwDQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:55:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisteredUsersController.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\RegisteredUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisteredUsersController.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\RegisteredUsersController.cs",
+              "RelativeToolTip": "Controllers\\RegisteredUsersController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:54:18.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\RegisteredUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\RegisteredUsers\\Create.cshtml",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\RegisteredUsers\\Create.cshtml",
+              "RelativeToolTip": "Views\\RegisteredUsers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T14:50:41.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\RegisteredUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\RegisteredUsers\\Index.cshtml",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\RegisteredUsers\\Index.cshtml",
+              "RelativeToolTip": "Views\\RegisteredUsers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T14:49:51.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:40:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisteredUser.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Models\\RegisteredUser.cs",
+              "RelativeDocumentMoniker": "Models\\RegisteredUser.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Models\\RegisteredUser.cs",
+              "RelativeToolTip": "Models\\RegisteredUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:39:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T14:39:40.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T14:39:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\TaskDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaskDetails\\Index.cshtml",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Views\\TaskDetails\\Index.cshtml",
+              "RelativeToolTip": "Views\\TaskDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T14:37:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Web \u0026 Internet Programming Course\\Final Project\\Final Project\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:03:48.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

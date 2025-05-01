@@ -1,0 +1,232 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+// the login page css starts from here
+/* Basic reset and body styling */
+body {
+    background-color: #f7f7f7; /* Light grey background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font style */
+    margin: 0; /* Remove default margin */
+}
+
+/* Center the login container */
+.login-container {
+    background-color: white; /* White background for the login box */
+    padding: 2rem; /* Padding around the content */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    max-width: 400px; /* Max width of the login box */
+    width: 100%; /* Full width on small screens */
+}
+
+/* Title styling */
+.login-title {
+    text-align: center; /* Center title */
+    margin-bottom: 1.5rem; /* Space below title */
+    font-size: 24px; /* Font size */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Dark grey color */
+}
+
+/* Input fields styling */
+.form-group {
+    margin-bottom: 1.5rem; /* Space below each form group */
+}
+
+.form-control {
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding inside the field */
+    border: 1px solid #ccc; /* Light grey border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 14px; /* Font size */
+}
+
+/* Button styling */
+.btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border: none; /* Remove border */
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding inside button */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3; /* Darker blue on hover */
+    }
+
+/* Error message styling */
+.text-danger {
+    font-size: 12px; /* Font size for error messages */
+    color: #dc3545; /* Red color */
+}
+
+/* Link styling */
+a {
+    display: block; /* Block-level link */
+    margin-top: 1.5rem; /* Space above link */
+    text-align: center; /* Center the link */
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+    a:hover {
+        text-decoration: underline; /* Underline on hover */
+    }
+
+// The regiter page css starts from here
+/* Basic reset and body styling */
+body {
+    background-color: #f7f7f7; /* Light grey background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font style */
+    margin: 0; /* Remove default margin */
+}
+
+/* Center the registration container */
+.register-container {
+    background-color: white; /* White background for the register box */
+    padding: 2rem; /* Padding around the content */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    max-width: 400px; /* Max width of the register box */
+    width: 100%; /* Full width on small screens */
+}
+
+/* Title styling */
+.login-title {
+    text-align: center; /* Center title */
+    margin-bottom: 1.5rem; /* Space below title */
+    font-size: 24px; /* Font size */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Dark grey color */
+}
+
+/* Input fields styling */
+.form-group {
+    margin-bottom: 1.5rem; /* Space below each form group */
+}
+
+.form-control {
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding inside the field */
+    border: 1px solid #ccc; /* Light grey border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 14px; /* Font size */
+}
+
+/* Button styling */
+.btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border: none; /* Remove border */
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding inside button */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3; /* Darker blue on hover */
+    }
+
+/* Error message styling */
+.text-danger {
+    font-size: 12px; /* Font size for error messages */
+    color: #dc3545; /* Red color */
+}
+
+/* Link styling */
+a {
+    display: block; /* Block-level link */
+    margin-top: 1.5rem; /* Space above link */
+    text-align: center; /* Center the link */
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+    a:hover {
+        text-decoration: underline; /* Underline on hover */
+    }
+
+// Dashboard Css Here
+/* Dashboard page styles */
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f0f2f5;
+    text-align: center;
+    flex-direction: column;
+}
+
+.main-content {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+    .main-content h1 {
+        font-size: 3em;
+        margin-bottom: 10px;
+        color: #3498db;
+    }
+
+.tagline {
+    font-size: 1.2em;
+    color: #7f8c8d;
+}
+
+.side-panels {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-top: 40px;
+}
+
+.panel {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 45%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+    .panel h3 {
+        font-size: 1.5em;
+    }
+
+    .panel p {
+        font-size: 1em;
+    }
+
+.left-panel {
+    background-color: #2ecc71;
+}
+
+.right-panel {
+    background-color: #e74c3c;
+}
